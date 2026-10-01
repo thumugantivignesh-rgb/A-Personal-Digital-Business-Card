@@ -1,3 +1,6 @@
+# view my profile 
+https://vigneshth.niat.tech/
+
 # Personal Digital Business Card
 
 A simple, responsive digital business card built using **HTML** and **CSS**. This project is part of my weekly coding practice as a B.Tech first-year student.
